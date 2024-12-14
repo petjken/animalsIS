@@ -1,0 +1,56 @@
+.common{
+    background-color: cadetblue;
+    text-align: center;
+}
+ .mine{
+    width: 80%;
+    height: 50%;
+    margin: 20px;
+    padding: 5px;
+    border: 5px;
+    text-align: center;
+    position: relative;
+    
+ }
+
+ 
+ .tabby {
+    font-size: larger;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: blanchedalmond;
+ }
+ .navi {
+    position: absolute;
+    float: right;
+ }
+
+ .footer{
+    border: 15px;
+    text-align: center;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+    background-color: blanchedalmond;
+    position: relative;
+
+ }
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: larger;
+    color:blanchedalmond;
+   
+    
+}
+ .body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    text-align: left;
+    
+}
+
+.tableauPlaceholder{
+    width:90%
+}
